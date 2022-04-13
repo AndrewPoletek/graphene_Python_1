@@ -5,8 +5,8 @@ This is my training graphene provided by docs.
 # Graphene Python
 https://docs.graphene-python.org/en/latest/
 ### Getting started
-- [ ] Introduction
-- [ ] An example in Graphene
+- [X] Introduction
+- [X] An example in Graphene
 ###Types Reference
 - [ ] Schema
 - [ ] Scalars
