@@ -1,20 +1,22 @@
 # Graphene_Python_1
 
 This is my training graphene provided by docs.
+im finish on:
 
 # Graphene Python
 https://docs.graphene-python.org/en/latest/
+https://docs.graphene-python.org/projects/django/en/latest/
 ### Getting started
 - [X] Introduction
 - [X] An example in Graphene
 ###Types Reference
-- [ ] Schema
-- [ ] Scalars
-- [ ] Lists and Non-Null
-- [ ] ObjectType
-- [ ] Enums
-- [ ] Interfaces
-- [ ] Unions
+- [X] Schema
+- [X] Scalars
+- [X] Lists and Non-Null
+- [X] ObjectType
+- [X] Enums
+- [X] Interfaces
+- [X] Unions
 - [ ] Mutations
 ### Execution
 - [ ] Executing a query
@@ -41,18 +43,18 @@ https://docs.graphene-python.org/en/latest/
 - [ ] Structures
 - [ ] Type Extension
 - [ ] Execution Metadata
-
+- [ ] FINISH PROJECT
 
 # Graphene-Django
 https://docs.graphene-python.org/projects/django/en/latest/
-- [ ] Installation (apps.installation)
-- [ ] Basic Tutorial
-- [ ] Relay tutorial
-- [ ] Schema
-- [ ] Queries & ObjectTypes
-- [ ] Fields
-- [ ] Extra Types
-- [ ] Mutations
+- [X] Installation (apps.installation)
+- [X] Basic Tutorial
+- [X] Relay tutorial
+- [X] Schema
+- [X] Queries & ObjectTypes
+- [X] Fields
+- [X] Extra Types
+- [X] Mutations
 - [ ] Subscriptions
 - [ ] Filtering
 - [ ] Authorization in Django
@@ -60,3 +62,4 @@ https://docs.graphene-python.org/projects/django/en/latest/
 - [ ] Introspection Schema
 - [ ] Testing API calls with django
 - [ ] Settings
+- [ ] FINISH PROJECT
