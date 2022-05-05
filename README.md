@@ -55,11 +55,11 @@ https://docs.graphene-python.org/projects/django/en/latest/
 - [X] Fields
 - [X] Extra Types
 - [X] Mutations
-- [ ] Subscriptions
-- [ ] Filtering
-- [ ] Authorization in Django
-- [ ] Django Debug Middleware
-- [ ] Introspection Schema
-- [ ] Testing API calls with django
-- [ ] Settings
+- [X] Subscriptions (External tools)
+- [X] Filtering
+- [X] Authorization in Django
+- [X] Django Debug Middleware(External tools)
+- [X] Introspection Schema
+- [X] Testing API calls with django (Now im leaving this for maybe future)
+- [X] Settings
 - [ ] FINISH PROJECT
