@@ -43,7 +43,6 @@ https://docs.graphene-python.org/projects/django/en/latest/
 - [ ] Structures
 - [ ] Type Extension
 - [ ] Execution Metadata
-- [ ] FINISH PROJECT
 
 # Graphene-Django
 https://docs.graphene-python.org/projects/django/en/latest/
@@ -62,4 +61,15 @@ https://docs.graphene-python.org/projects/django/en/latest/
 - [X] Introspection Schema
 - [X] Testing API calls with django (Now im leaving this for maybe future)
 - [X] Settings
-- [ ] FINISH PROJECT
+- [X] START FINISH PROJECT
+
+# Finish project
+### Title: Easy Warehouse System
+### Description: 
+Create a Easy Warehouse System. Freatures which must be:
+1. Creating,Editing,Deleting warehouses. Only Admin can delete
+2. For every warehouse permissions like: Owner, Read, Write
+3. Every position in warehouse must be connected via field with warehouse. Possible is use field with quantity
+4. Must be possible transfer from one warehouse to another warehouse with history
+
+LINK: https://github.com/AndrewPoletek/simple-warehouse-graphene
